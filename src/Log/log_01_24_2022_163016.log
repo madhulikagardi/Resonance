@@ -1,0 +1,4 @@
+2022-Jan-24 16:30:16,671 [AsyncHttpClient-1-4] io.netty.channel.nio.NioEventLoop 
+  WARN  Selector.select() returned prematurely 512 times in a row; rebuilding Selector io.netty.channel.nio.SelectedSelectionKeySetSelector@4130eba.
+2022-Jan-24 16:30:17,409 [AsyncHttpClient-1-4] io.netty.channel.nio.NioEventLoop 
+  INFO  Migrated 0 channel(s) to the new Selector.
